@@ -1,0 +1,4 @@
+/Users/akiichris/Projects/KnowClas/KnowClas/obj/Debug/netcoreapp3.1/KnowClas.csprojAssemblyReference.cache
+/Users/akiichris/Projects/KnowClas/KnowClas/obj/Debug/netcoreapp3.1/KnowClas.AssemblyInfoInputs.cache
+/Users/akiichris/Projects/KnowClas/KnowClas/obj/Debug/netcoreapp3.1/KnowClas.AssemblyInfo.cs
+/Users/akiichris/Projects/KnowClas/KnowClas/obj/Debug/netcoreapp3.1/KnowClas.csproj.CoreCompileInputs.cache
